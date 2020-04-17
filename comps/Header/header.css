@@ -1,0 +1,6 @@
+.header{
+    /* background-color: skyblue; */
+   display: inline-flex;
+   font-weight: bolder;
+   margin: 5px; 
+}
